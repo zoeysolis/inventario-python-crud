@@ -17,7 +17,3 @@ Tecnologías utilizadas
 - **Base de datos:** SQLite3
 - **Librerías:** `sqlite3` (estándar de Python)
 
-Instalación y Uso
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/zoeysolis/gestion-inventario-sqlite.git](https://github.com/zoeysolis/gestion-inventario-sqlite.git)
